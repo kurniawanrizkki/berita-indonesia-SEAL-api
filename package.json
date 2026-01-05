@@ -1,0 +1,9 @@
+{
+  "name": "berita-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  }
+}
+
